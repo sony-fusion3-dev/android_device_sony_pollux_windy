@@ -1,0 +1,5 @@
+# QMI
+bin/irsc_util
+
+# RemoteFS
+bin/rmt_storage

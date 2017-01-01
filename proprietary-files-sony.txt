@@ -1,6 +1,7 @@
-bin/irsc_util
-bin/rmt_storage
+# Apps Firmware
 etc/firmware/apps.mbn
+
+# DSPS Firmware
 etc/firmware/dsp3.mbn
 etc/firmware/dsps.b00
 etc/firmware/dsps.b01
@@ -9,6 +10,8 @@ etc/firmware/dsps.b03
 etc/firmware/dsps.b04
 etc/firmware/dsps.b05
 etc/firmware/dsps.mdt
+
+# GSS Firmware
 etc/firmware/gss.b00
 etc/firmware/gss.b01
 etc/firmware/gss.b02
@@ -22,4 +25,6 @@ etc/firmware/gss.b09
 etc/firmware/gss.b10
 etc/firmware/gss.b11
 etc/firmware/gss.mdt
+
+# NFC
 lib/hw/nfc.msm8960.so
