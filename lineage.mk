@@ -16,7 +16,7 @@
 #
 
 # Inherit common LineageOS stuff
-$(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
+$(call inherit-product, vendor/lineage/config/common_full_tablet_wifionly.mk)
 
 # Inherit device configurations
 $(call inherit-product, device/sony/pollux_windy/device.mk)
