@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_pollux_windy.mk
+
+COMMON_LUNCH_CHOICES := \
+    lineage_pollux_windy-user \
+    lineage_pollux_windy-userdebug \
+    lineage_pollux_windy-eng
